@@ -14,6 +14,12 @@ public class HelloResourceImpl implements HelloResourceV1{
 		return "hello world Divya";
 	}
 
+	@Override
+	public String getWelcomeMsg() {
+		// TODO Auto-generated method stub
+		return "welcome to devops journey";
+	}
+
 
 
 }
