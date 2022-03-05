@@ -11,7 +11,7 @@ public class HelloResourceImpl implements HelloResourceV1{
 	@Override
 	public String getHelloWorld() {
 		// TODO Auto-generated method stub
-		return "hello world";
+		return "hello world Divya";
 	}
 
 
